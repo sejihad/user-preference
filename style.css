@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    padding: 1rem;
+}
+main{
+    background-color: aqua;
+    font-size: 16px;
+    padding: 1rem;
+}
+select{
+    margin:0 1rem 1rem 0;
+    background-color: black;
+    color: white;
+}
+p{
+    margin: 1rem;
+}
+button{
+    border: none;
+    border-radius: 0.6rem;
+    padding: 6px;
+    background-color:black;
+    color: white;
+}
+
